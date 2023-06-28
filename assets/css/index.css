@@ -1,0 +1,102 @@
+    @import url('https://fonts.googleapis.com/css2?family=Oswald&family=Vina+Sans&display=swap');
+
+/* *{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Vina Sans', cursive;
+} */
+
+body{
+    margin: 0;
+    overflow: hidden;
+    background-image: url(../content/img/background/BG\ index.png);
+}
+
+section{
+    width: 100%;
+    height: auto;
+}
+
+.content{
+    width: 100%;
+    height: auto;
+    display: inline-flex;
+}
+
+.titleCircle{
+    height: 350px;
+    width: 350px;
+    margin-left: 2rem;
+    margin-top: 1rem;
+    z-index: 5;
+    position: absolute;
+}
+
+.cicle{
+    height: 1200px;
+    width: 600px;
+    margin-top: -8rem;
+    margin-left: -15rem;
+    border-radius: 60%;
+    position: relative;
+    border: solid 1.8rem #fcc4d4;
+    background-color: #f0e3e6;
+}
+
+.homeBtn, li{
+    height: 1200px;
+    width: 100%;
+    list-style: none;
+    color: black;
+}
+
+.btn{
+    display: inline-block;
+    position: absolute;
+    color: red;
+    z-index: 10000;
+}
+
+.character{
+    height: 100%;
+    width: 100%;
+    
+}
+
+img {
+    height: 800px;
+    width: auto;
+}
+
+.natsuki{
+    height: 2rem;
+    width: 2rem;
+    margin-left: 8rem;
+    margin-top: 15rem;
+    z-index: 1;
+    position: absolute;
+}
+
+.yuri{
+    height: 2rem;
+    width: 2rem;
+    margin-left: 15rem;
+    margin-top: 4rem;
+    z-index: 2;
+}
+
+.sayori{
+    height: 2rem;
+    width: 2rem;
+    margin-left: 30rem;
+    margin-top: 2rem;
+    z-index: 2;
+}
+
+.monika{
+    height: 10rem;
+    width: 10rem;
+    margin-left: 37rem;
+    margin-top: 10rem;
+    z-index: 2;
+    position: absolute;
+}
