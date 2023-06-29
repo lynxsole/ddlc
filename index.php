@@ -32,8 +32,8 @@
                 <div class="sayori">
                     <img src="assets\content\img\character\natsuki.png" alt="yuri">
                 </div>
-                <div  class="monika">
-                    <img class="" src="assets\content\img\character\monika.png" alt="yuri">
+                <div class="monika">
+                    <img id="resize" src="assets\content\img\character\monika.png" alt="yuri">
                 </div>
             </div>
         </div>

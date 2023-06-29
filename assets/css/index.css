@@ -97,7 +97,12 @@ img {
     height: 10rem;
     width: 10rem;
     margin-left: 37rem;
-    margin-top: 10rem;
+    margin-top: 7rem;
     z-index: 2;
     position: absolute;
+}
+
+#resize{
+    height: 60rem;
+    width: 40rem;
 }
