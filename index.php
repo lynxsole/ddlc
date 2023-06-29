@@ -18,7 +18,7 @@
                     <li class="btn">Home</li>
                     <li class="btn">Story</li>
                     <li class="btn">Screen</li>
-                    <li class="btn">About</li>
+                    <li class="btn">Download</li>
                 </div>
             </div>
 
@@ -38,5 +38,6 @@
             </div>
         </div>
     </section>
+    <script src="assets/js/index.js"></script>
 </body>
 </html>
